@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ee8c670.css",
+    "main.js": "/static/js/main.0bd64c29.js",
+    "static/js/787.ec704a7a.chunk.js": "/static/js/787.ec704a7a.chunk.js",
+    "static/media/process.jpg": "/static/media/process.a87b9c5fbfa48a35c327.jpg",
+    "static/media/interview.jpg": "/static/media/interview.84bf947caf3abac9e037.jpg",
+    "static/media/test.png": "/static/media/test.dd61cbe7bb4e227b7be2.png",
+    "static/media/hiring.jpg": "/static/media/hiring.6bff409476e8359ff357.jpg",
+    "static/media/design.png": "/static/media/design.d3b25878d294c38d90da.png",
+    "static/media/job.webp": "/static/media/job.ad9ea7526cf6a3fb0528.webp",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.3ee8c670.css.map": "/static/css/main.3ee8c670.css.map",
+    "main.0bd64c29.js.map": "/static/js/main.0bd64c29.js.map",
+    "787.ec704a7a.chunk.js.map": "/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ee8c670.css",
+    "static/js/main.0bd64c29.js"
+  ]
+}
